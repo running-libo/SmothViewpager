@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/banner4.jpg",
+        "source": "/Users/apple/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/banner4.jpg"
+    },
+    {
+        "merged": "/Users/apple/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/banner1.jpg",
+        "source": "/Users/apple/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/banner1.jpg"
+    },
+    {
+        "merged": "/Users/apple/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/banner3.jpg",
+        "source": "/Users/apple/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/banner3.jpg"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/test4.jpeg",
+        "source": "/Users/goobird-iOS004/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/test4.jpeg"
+    },
+    {
+        "merged": "/Users/apple/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/banner2.jpg",
+        "source": "/Users/apple/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/banner2.jpg"
+    }
+]

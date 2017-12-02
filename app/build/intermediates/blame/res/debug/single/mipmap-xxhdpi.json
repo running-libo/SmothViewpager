@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/goobird-iOS004/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/apple/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/goobird-iOS004/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/SmothViewpager/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/apple/Desktop/SmothViewpager/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
