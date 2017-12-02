@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         rlBanner = (RelativeLayout) findViewById(R.id.rl_banner);
         pagerAdapter = new BannerViewpagerAdapter(getApplicationContext(),pics);
         bannerView = new BannerView(getApplicationContext(),pics,pagerAdapter,R.layout.customviewpager);
+        //将bannerview添加到需引入控件即可
         rlBanner.addView(bannerView.getBannerView());
     }
 }

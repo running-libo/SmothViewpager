@@ -26,7 +26,7 @@ public class BannerViewpagerAdapter extends PagerAdapter {
     }
 
     /**
-     * 相当于baseadapter的getview，将复用的每一项数据显示到view中
+     * 相当于baseadapter的getview
      * @param container
      * @param position
      * @return
